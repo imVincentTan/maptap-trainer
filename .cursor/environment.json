@@ -1,0 +1,4 @@
+{
+  "name": "maptap-trainer",
+  "install": "bash .cursor/install.sh"
+}
